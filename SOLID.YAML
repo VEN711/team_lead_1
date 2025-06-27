@@ -1,1 +1,14 @@
-New
+#Блок 4
+#Python
+class Switch:
+    def __init__(self):
+        self.buld = LightBuld()
+    
+    def operate(self)
+#Код для работы выключателя
+    self.buld.turn()
+
+class LightBuld
+    def turn_on()
+#Код для включния лампочки
+    pass
